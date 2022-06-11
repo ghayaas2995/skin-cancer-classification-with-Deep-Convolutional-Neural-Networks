@@ -8,4 +8,3 @@ The repo follows the following structure:
 - Documentation: Contains various project related documents with detailled explanation of processes performed.
     - PreProcessing_201X: Contains detailed explanation of step-wise approach taken to process images from all the different classes for ISIC 2018 & ISIC 2019 dataset. 
     -  ISIC_201X_augmenations_summary: The excel files corresponding to each dataset consists a summarised description of augmentations performed on each class with information on number of images augmented, parameters of techniques used and final count of images of each class.
-    - CNN_Model_Development.docx -  Report presented on 12th March describing different models.
