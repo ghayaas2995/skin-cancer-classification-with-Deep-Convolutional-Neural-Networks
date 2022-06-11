@@ -1,4 +1,4 @@
-# Melanoma_Detection
+# Skin cancer classification
 This project aims at classifying Skin Lesions based on different classes. The dataset used for training the models are:
 - ISIC 2018
 - ISIC 2019
